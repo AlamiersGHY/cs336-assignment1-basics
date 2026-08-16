@@ -64,7 +64,7 @@ cs336-assignment1-basics/
 │   ├── reference/         # 练习草稿,非测试目标
 │   └── run_scripts/       # 各实验运行脚本(baseline/消融/推理)
 ├── tests/                 # 官方测试(46 passed, 2 skipped)
-├── data/                  # 语料、词表、编码后的 bin(不入库)
+├── data/                  # 语料、词表、编码后的 bin(未入库)
 ├── pyproject.toml
 └── README.md
 ```
